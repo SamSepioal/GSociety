@@ -9,7 +9,9 @@ html {
     display: grid;
     justify-items: center;
     align-items: center;
-    background-color: #3a3a3a;
+    /* background-color: #3a3a3a; */
+    background: url(https://images7.alphacoders.com/112/thumb-1920-1129455.jpg);
+    background-repeat: no-repeat;
   }
   
   #main-holder {
@@ -18,7 +20,8 @@ html {
     display: grid;
     justify-items: center;
     align-items: center;
-    background-color: white;
+    /* background-color: white; */
+    background-color: rgba(248, 247, 216, 0.7);
     border-radius: 7px;
     box-shadow: 0px 0px 5px 2px black;
   }
